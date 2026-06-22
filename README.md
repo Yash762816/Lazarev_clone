@@ -2,7 +2,7 @@
 
 A pixel-perfect frontend clone of the award-winning **Lazarev design agency** website, built with vanilla HTML, CSS, and JavaScript. This project focuses on replicating advanced UI/UX patterns including smooth scroll animations, GSAP-powered transitions, and interactive hover effects.
 
-🔗 **Live Demo:** [lazarev-clone-seven.vercel.app](https://lazarev-clone-seven.vercel.app)
+🔗 **Live Demo:** https://yash762816.github.io/Lazarev_clone/
 
 ---
 
